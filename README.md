@@ -18,13 +18,13 @@
 ## About Me
 
 - 🔭 I’m currently working on
-  - Landing Page project
-  - Ecommerce project
+  - Event Website using WordPress
+  - Movie and Book Review System built with Python, Django framework, and PostgreSQL 
   - Blog project
-- 🌱 I'm looking for learning
+- 🌱 I'm currently learning
   - Tensorflow.js
-  - Next.js
-  - React Native
+  - AWS
+  - Docker
 
 ## A quick look at my projects
 <table>
