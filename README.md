@@ -22,7 +22,7 @@
   - Movie and Book Review System built with Python, Django framework, and PostgreSQL
     
 - 🌱 I'm currently learning
-  - Tensorflow.js
+  - Tensorflow
   - AWS
   - Docker
 
