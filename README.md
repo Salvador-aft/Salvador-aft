@@ -19,8 +19,8 @@
 
 - 🔭 I’m currently working on
   - Event Website using WordPress
-  - Movie and Book Review System built with Python, Django framework, and PostgreSQL 
-  - Blog project
+  - Movie and Book Review System built with Python, Django framework, and PostgreSQL
+    
 - 🌱 I'm currently learning
   - Tensorflow.js
   - AWS
